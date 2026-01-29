@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
