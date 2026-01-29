@@ -26,7 +26,7 @@ public:
         }
 
         string temp= s+s;
-        for(int i=0;i<temp.size();i++){
+        for(int i=0;i<temp.size()-n1;i++){
             if(goal== temp.substr(i,n1)){
                 return true;
             }
