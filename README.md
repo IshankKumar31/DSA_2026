@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
