@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/IshankKumar31/DSA_2026/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0392-is-subsequence) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
