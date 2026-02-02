@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1903-largest-odd-number-in-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Queue
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
