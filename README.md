@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/IshankKumar31/DSA_2026/tree/master/0231-power-of-two) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
