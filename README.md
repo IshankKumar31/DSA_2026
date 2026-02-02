@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/IshankKumar31/DSA_2026/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/IshankKumar31/DSA_2026/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sorting
 |  |
 | ------- |
