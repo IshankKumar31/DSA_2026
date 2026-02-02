@@ -6,10 +6,9 @@ public:
         for(int i=0;i<n;i++){
             freq[nums[i]]++;
         }
-        for(int i=0;i<n;i++){
-            if(freq[nums[i]]>1){
+        for(auto p : freq){
+            if(p.second >1){
                 return true;
-                break;
             }
         }
         return false;
