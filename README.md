@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Queue
 |  |
