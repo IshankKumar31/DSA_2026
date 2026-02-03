@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshankKumar31/DSA_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
