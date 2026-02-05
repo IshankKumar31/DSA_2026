@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3379-transformed-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshankKumar31/DSA_2026/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3379-transformed-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3379-transformed-array) |
 ## Sorting
 |  |
 | ------- |
