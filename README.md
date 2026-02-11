@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/IshankKumar31/DSA_2026/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshankKumar31/DSA_2026/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/IshankKumar31/DSA_2026/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshankKumar31/DSA_2026/tree/master/0225-implement-stack-using-queues) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
