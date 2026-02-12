@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/IshankKumar31/DSA_2026/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -261,13 +262,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/IshankKumar31/DSA_2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshankKumar31/DSA_2026/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/IshankKumar31/DSA_2026/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/IshankKumar31/DSA_2026/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/IshankKumar31/DSA_2026/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/2487-remove-nodes-from-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/IshankKumar31/DSA_2026/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
