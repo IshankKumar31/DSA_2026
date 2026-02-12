@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/IshankKumar31/DSA_2026/tree/master/0622-design-circular-queue) |
+| [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/1004-max-consecutive-ones-iii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/IshankKumar31/DSA_2026/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshankKumar31/DSA_2026/tree/master/2181-merge-nodes-in-between-zeros) |
