@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshankKumar31/DSA_2026/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/IshankKumar31/DSA_2026/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshankKumar31/DSA_2026/tree/master/0225-implement-stack-using-queues) |
@@ -277,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/IshankKumar31/DSA_2026/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
