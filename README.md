@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
