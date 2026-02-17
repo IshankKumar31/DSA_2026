@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
@@ -374,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
