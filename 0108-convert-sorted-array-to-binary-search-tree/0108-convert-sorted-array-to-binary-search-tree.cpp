@@ -15,7 +15,7 @@ public:
         if(l>r){
             return NULL;
         }
-        int mid=(l+r)/2;
+        int mid=l+(r-l)/2;
         TreeNode* node =new TreeNode(nums[mid]);
         node->left = buildBSTHelper(nums,l,mid-1);
         node->right=  buildBSTHelper(nums,mid+1,r);
