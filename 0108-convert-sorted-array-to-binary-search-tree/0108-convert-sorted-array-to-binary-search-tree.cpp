@@ -11,14 +11,14 @@
  */
 class Solution {
 public:
-    TreeNode* buildBSTHelper(vector<int> nums, int l,int r){
-        if(l>r){
+    TreeNode* buildBSTHelper(vector<int> nums, int start,int end){
+        if(start>end){
             return NULL;
         }
-        int mid=l+(r-l)/2;
+        int mid=(start+end)/2;
         TreeNode* node =new TreeNode(nums[mid]);
-        node->left = buildBSTHelper(nums,l,mid-1);
-        node->right=  buildBSTHelper(nums,mid+1,r);
+        node->left = buildBSTHelper(nums,start,mid-1);
+        node->right=  buildBSTHelper(nums,mid+1,end);
         return node;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
