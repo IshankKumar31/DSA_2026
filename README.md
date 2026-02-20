@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/IshankKumar31/DSA_2026/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/IshankKumar31/DSA_2026/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -419,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
