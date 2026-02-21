@@ -9,7 +9,7 @@ public:
         }
 
         for(auto p:freq){
-            if(p.second == 2){
+            if(p.second > 1){
                 ans.push_back(p.first);
             }
         }
