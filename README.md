@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/IshankKumar31/DSA_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
