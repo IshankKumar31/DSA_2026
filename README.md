@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/IshankKumar31/DSA_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/IshankKumar31/DSA_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0637-average-of-levels-in-binary-tree) |
