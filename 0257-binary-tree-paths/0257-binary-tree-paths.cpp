@@ -12,9 +12,9 @@
 class Solution {
 public:
     void allpath(TreeNode* root, string path,vector<string> &ans){
-        // if(root==NULL){
-        //     return;
-        // }
+        if(root==NULL){
+            return;
+        }
         if(root->left==NULL && root->right==NULL){
             ans.push_back(path);
         }
