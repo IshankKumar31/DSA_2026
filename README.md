@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/IshankKumar31/DSA_2026/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/IshankKumar31/DSA_2026/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshankKumar31/DSA_2026/tree/master/0424-longest-repeating-character-replacement) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/IshankKumar31/DSA_2026/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/IshankKumar31/DSA_2026/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/IshankKumar31/DSA_2026/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/IshankKumar31/DSA_2026/tree/master/0513-find-bottom-left-tree-value) |
@@ -462,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/IshankKumar31/DSA_2026/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
