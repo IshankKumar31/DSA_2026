@@ -17,8 +17,8 @@ public:
             return NULL;
         }
         TreeNode* root= new TreeNode(preorder[i]);
-        i++;
-        root->left= helper(preorder,i,root->val);
+        
+        root->left= helper(preorder,++i,root->val);
         root->right= helper(preorder,i,bound);
 
         return root;
