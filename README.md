@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankKumar31/DSA_2026/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankKumar31/DSA_2026/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1382-balance-a-binary-search-tree) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankKumar31/DSA_2026/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
