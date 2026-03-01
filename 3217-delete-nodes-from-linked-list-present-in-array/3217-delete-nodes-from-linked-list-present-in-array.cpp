@@ -13,7 +13,7 @@ public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
 
         if(head == NULL) return NULL;
-        if(nums.empty()) return head;
+        
 
         int maxi = *max_element(nums.begin(), nums.end());
         vector<bool> visited(maxi + 1, false);
