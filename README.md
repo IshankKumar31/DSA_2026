@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshankKumar31/DSA_2026/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
 | ------- |
