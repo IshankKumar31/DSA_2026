@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshankKumar31/DSA_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/IshankKumar31/DSA_2026/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/IshankKumar31/DSA_2026/tree/master/0152-maximum-product-subarray) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshankKumar31/DSA_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/IshankKumar31/DSA_2026/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
@@ -556,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
