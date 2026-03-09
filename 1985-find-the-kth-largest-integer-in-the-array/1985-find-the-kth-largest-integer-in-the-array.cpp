@@ -1,25 +1,21 @@
-class Compare {
-public:
-    bool operator()(string a, string b) {
-        if(a.size() == b.size())
-            return a > b;
-        return a.size() > b.size();
-    }
-};
-
 class Solution {
 public:
-    
     string kthLargestNumber(vector<string>& nums, int k) {
-        priority_queue<string, vector<string>,Compare> pq;
 
-        for(int i=0;i<nums.size();i++){
-            pq.push(nums[i]);
-            if(pq.size()>k){
+        auto comp = [](string a, string b){
+            return a.size() > b.size() || 
+                  (a.size() == b.size() && a > b);
+        };
+
+        priority_queue<string, vector<string>, decltype(comp)> pq(comp);
+
+        for(string s : nums){
+            pq.push(s);
+            if(pq.size() > k){
                 pq.pop();
             }
         }
-        
+
         return pq.top();
     }
 };
