@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/IshankKumar31/DSA_2026/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/IshankKumar31/DSA_2026/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/IshankKumar31/DSA_2026/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshankKumar31/DSA_2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -593,4 +599,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
