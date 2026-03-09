@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshankKumar31/DSA_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/IshankKumar31/DSA_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/IshankKumar31/DSA_2026/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshankKumar31/DSA_2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -584,4 +589,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
