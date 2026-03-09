@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankKumar31/DSA_2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1903-largest-odd-number-in-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1382-balance-a-binary-search-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
 |  |
@@ -569,11 +573,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshankKumar31/DSA_2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Backtracking
 |  |
 | ------- |
