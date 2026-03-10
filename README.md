@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/IshankKumar31/DSA_2026/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/IshankKumar31/DSA_2026/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/IshankKumar31/DSA_2026/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/IshankKumar31/DSA_2026/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/IshankKumar31/DSA_2026/tree/master/0326-power-of-three) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/IshankKumar31/DSA_2026/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0209-minimum-size-subarray-sum) |
