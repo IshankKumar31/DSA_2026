@@ -38,7 +38,7 @@ public:
                         return false;
                     }
                 }
-            }else if(l%2 != 0){
+            }else{
                 if(level[0]%2!=0)return false;
                 for(int i=1;i<level.size();i++){
                     if(level[i] %2!=0 || level[i]>=level[i-1]){
