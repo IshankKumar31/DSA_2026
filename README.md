@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/IshankKumar31/DSA_2026/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/IshankKumar31/DSA_2026/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
