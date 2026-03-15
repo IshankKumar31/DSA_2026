@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/IshankKumar31/DSA_2026/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/IshankKumar31/DSA_2026/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0507-perfect-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
