@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/IshankKumar31/DSA_2026/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/IshankKumar31/DSA_2026/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/IshankKumar31/DSA_2026/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0507-perfect-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/IshankKumar31/DSA_2026/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/IshankKumar31/DSA_2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshankKumar31/DSA_2026/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/IshankKumar31/DSA_2026/tree/master/0682-baseball-game) |
