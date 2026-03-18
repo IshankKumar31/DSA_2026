@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/IshankKumar31/DSA_2026/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/IshankKumar31/DSA_2026/tree/master/0682-baseball-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/1004-max-consecutive-ones-iii) |
