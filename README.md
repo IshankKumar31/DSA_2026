@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshankKumar31/DSA_2026/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0148-sort-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/IshankKumar31/DSA_2026/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/IshankKumar31/DSA_2026/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0215-kth-largest-element-in-an-array) |
