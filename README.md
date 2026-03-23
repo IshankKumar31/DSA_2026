@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IshankKumar31/DSA_2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/IshankKumar31/DSA_2026/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -653,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
