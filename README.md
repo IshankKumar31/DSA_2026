@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/IshankKumar31/DSA_2026/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3536-maximum-product-of-two-digits](https://github.com/IshankKumar31/DSA_2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
