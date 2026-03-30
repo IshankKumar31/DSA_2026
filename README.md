@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshankKumar31/DSA_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/IshankKumar31/DSA_2026/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0137-single-number-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankKumar31/DSA_2026/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0542-01-matrix) |
 | [2906-construct-product-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/2906-construct-product-matrix) |
 ## Simulation
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IshankKumar31/DSA_2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/IshankKumar31/DSA_2026/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/IshankKumar31/DSA_2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IshankKumar31/DSA_2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankKumar31/DSA_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0226-invert-binary-tree) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 ## Bucket Sort
 |  |
 | ------- |
