@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/IshankKumar31/DSA_2026/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/IshankKumar31/DSA_2026/tree/master/1200-minimum-absolute-difference) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/IshankKumar31/DSA_2026/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
