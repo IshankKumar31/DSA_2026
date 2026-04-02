@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
 | [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
