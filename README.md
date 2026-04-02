@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/IshankKumar31/DSA_2026/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1765-map-of-highest-peak](https://github.com/IshankKumar31/DSA_2026/tree/master/1765-map-of-highest-peak) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
+| [1765-map-of-highest-peak](https://github.com/IshankKumar31/DSA_2026/tree/master/1765-map-of-highest-peak) |
 | [2906-construct-product-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1609-even-odd-tree) |
+| [1765-map-of-highest-peak](https://github.com/IshankKumar31/DSA_2026/tree/master/1765-map-of-highest-peak) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
