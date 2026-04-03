@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0594-longest-harmonious-subsequence) |
 | [0622-design-circular-queue](https://github.com/IshankKumar31/DSA_2026/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/IshankKumar31/DSA_2026/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshankKumar31/DSA_2026/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/IshankKumar31/DSA_2026/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [1200-minimum-absolute-difference](https://github.com/IshankKumar31/DSA_2026/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/IshankKumar31/DSA_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
