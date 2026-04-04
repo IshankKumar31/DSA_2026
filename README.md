@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
+| [1791-find-center-of-star-graph](https://github.com/IshankKumar31/DSA_2026/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshankKumar31/DSA_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
