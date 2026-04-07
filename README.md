@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/IshankKumar31/DSA_2026/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/IshankKumar31/DSA_2026/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/IshankKumar31/DSA_2026/tree/master/0886-possible-bipartition) |
 | [0993-cousins-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankKumar31/DSA_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/IshankKumar31/DSA_2026/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshankKumar31/DSA_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bucket Sort
 |  |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/IshankKumar31/DSA_2026/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/IshankKumar31/DSA_2026/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/IshankKumar31/DSA_2026/tree/master/0886-possible-bipartition) |
 | [1791-find-center-of-star-graph](https://github.com/IshankKumar31/DSA_2026/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshankKumar31/DSA_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
