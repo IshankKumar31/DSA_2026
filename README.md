@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/IshankKumar31/DSA_2026/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/IshankKumar31/DSA_2026/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/IshankKumar31/DSA_2026/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/IshankKumar31/DSA_2026/tree/master/2284-sender-with-largest-word-count) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/IshankKumar31/DSA_2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2906-construct-product-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/2906-construct-product-matrix) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/IshankKumar31/DSA_2026/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/IshankKumar31/DSA_2026/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/IshankKumar31/DSA_2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/IshankKumar31/DSA_2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/IshankKumar31/DSA_2026/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2284-sender-with-largest-word-count](https://github.com/IshankKumar31/DSA_2026/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/IshankKumar31/DSA_2026/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/3005-count-elements-with-maximum-frequency) |
