@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0905-sort-array-by-parity](https://github.com/IshankKumar31/DSA_2026/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankKumar31/DSA_2026/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/IshankKumar31/DSA_2026/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/IshankKumar31/DSA_2026/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/1004-max-consecutive-ones-iii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/IshankKumar31/DSA_2026/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/IshankKumar31/DSA_2026/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/IshankKumar31/DSA_2026/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/IshankKumar31/DSA_2026/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
