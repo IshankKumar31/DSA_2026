@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/IshankKumar31/DSA_2026/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/IshankKumar31/DSA_2026/tree/master/1200-minimum-absolute-difference) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/IshankKumar31/DSA_2026/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshankKumar31/DSA_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1765-map-of-highest-peak](https://github.com/IshankKumar31/DSA_2026/tree/master/1765-map-of-highest-peak) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/IshankKumar31/DSA_2026/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/IshankKumar31/DSA_2026/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/IshankKumar31/DSA_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/IshankKumar31/DSA_2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/IshankKumar31/DSA_2026/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/IshankKumar31/DSA_2026/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshankKumar31/DSA_2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/IshankKumar31/DSA_2026/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/IshankKumar31/DSA_2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
