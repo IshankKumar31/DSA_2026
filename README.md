@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/IshankKumar31/DSA_2026/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/IshankKumar31/DSA_2026/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/IshankKumar31/DSA_2026/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/IshankKumar31/DSA_2026/tree/master/0231-power-of-two) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/IshankKumar31/DSA_2026/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankKumar31/DSA_2026/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankKumar31/DSA_2026/tree/master/0084-largest-rectangle-in-histogram) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankKumar31/DSA_2026/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
