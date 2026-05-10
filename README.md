@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/IshankKumar31/DSA_2026/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IshankKumar31/DSA_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/IshankKumar31/DSA_2026/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankKumar31/DSA_2026/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshankKumar31/DSA_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/IshankKumar31/DSA_2026/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/IshankKumar31/DSA_2026/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/IshankKumar31/DSA_2026/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/IshankKumar31/DSA_2026/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0930-binary-subarrays-with-sum) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/IshankKumar31/DSA_2026/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/IshankKumar31/DSA_2026/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/IshankKumar31/DSA_2026/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshankKumar31/DSA_2026/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/IshankKumar31/DSA_2026/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/IshankKumar31/DSA_2026/tree/master/0695-max-area-of-island) |
+| [0832-flipping-an-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0832-flipping-an-image) |
 | [1765-map-of-highest-peak](https://github.com/IshankKumar31/DSA_2026/tree/master/1765-map-of-highest-peak) |
 | [2906-construct-product-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/2906-construct-product-matrix) |
 ## Simulation
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/IshankKumar31/DSA_2026/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/IshankKumar31/DSA_2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/IshankKumar31/DSA_2026/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankKumar31/DSA_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/IshankKumar31/DSA_2026/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshankKumar31/DSA_2026/tree/master/2181-merge-nodes-in-between-zeros) |
