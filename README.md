@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/IshankKumar31/DSA_2026/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/IshankKumar31/DSA_2026/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/IshankKumar31/DSA_2026/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/IshankKumar31/DSA_2026/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankKumar31/DSA_2026/tree/master/0073-set-matrix-zeroes) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankKumar31/DSA_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/IshankKumar31/DSA_2026/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/IshankKumar31/DSA_2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshankKumar31/DSA_2026/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
